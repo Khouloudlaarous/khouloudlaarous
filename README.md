@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+!+👋+I'am+Khouloud+Laarous" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+!+👋+I'am+Khouloud" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Thriving in the MERN Fullstack Realm: Uniting Self-Taught Experience with Coding Dojo's Bootcamp Guided Mastery</h3>
