@@ -6,7 +6,7 @@
 
 <h3 align="center">Thriving in the MERN Fullstack Realm: Uniting Self-Taught Experience with Coding Dojo's Bootcamp Guided Mastery</h3>
 
-- 🌱 I’m currently Sharpening my skills in JavaScript, Mango, React, Express, and NodeJs
+- 🌱 I’m currently Sharpening my skills in JavaScript, MangoDB, React, Express, and NodeJs
 
 - 💬 Ask me about My path , glad to share my journey with you
 
